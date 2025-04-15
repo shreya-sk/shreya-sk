@@ -12,3 +12,5 @@ Devops engineer at Sonic Healthcare; Pilates instructor at InLife Wellness, AU;<
   
 - 💬 `ping` me about **flows**, **automation**, **ai**, **health**, **movement**<br>
 - 📫 reach me via [LinkedIn](https://linkedin.com/in/shreyak19)  
+
+…and sometimes, I write things that don’t belong in a full repo — just [tiny gists](https://gist.github.com/shreyak19) of thought, code, or tools I love.
